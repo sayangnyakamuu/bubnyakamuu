@@ -21,8 +21,8 @@
     <section id="galeri">
         <h2>Kenangan Kita</h2>
         <p>Berikut beberapa momen indah kita:</p>
-        <img src="c:momen-1.jpg" alt="Momen 1" class="gambar"><p>Momen ini pass kita jauhh yangg pengen sama kamuu akuu</p>
-        <img src="c:momen-2.jpg" alt="Momen 2" class="gambar"><p>Momen kamuu abiss tabraan</p>
+        <img src="c:momen-1.jpg" alt="" class="gambar"><p>Momen ini pass kita jauhh yangg pengen sama kamuu akuu</p>
+        <img src="c:momen-2.jpg" alt="" class="gambar"><p>Momen kamuu abiss tabraan</p>
     </section>
 
     <section id="surprise">
