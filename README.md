@@ -28,11 +28,10 @@
         <button onclick="tampilkanKejutan()">Lihat Kejutan</button>
         <div id="kejutan" style="display:none;">
             <p>Terima kasih, sayang, atas semua momen indah yang telah kita lalui bersama. Kamu adalah cahaya dalam hidupku, dan setiap detik bersamamu adalah anugerah yang tidak ternilai.Setiap tawa, setiap pelukan, dan setiap kata-kata manis yang kamu ucapkan selalu membuat hariku lebih berarti. Terima kasih telah menjadi pendengar yang baik, sahabat, dan cinta sejatiku.Aku bersyukur untuk setiap kenangan yang kita buat, dan aku tidak sabar untuk menciptakan lebih banyak momen indah bersamamu. Kamu selalu ada di hatiku. <strong>Love you, sayangg bububb 💖</strong></p>
+        <img src="gambar-besar.jpg" alt="Gambar Besar" class="gambar-besar">
+        <img src="gambar-besar.jpg" alt="Gambar Besar" class="gambar-besar">
+        <img src="gambar-besar.jpg" alt="Gambar Besar" class="gambar-besar">
         </div>
-        <img src="gambar-besar.jpg" alt="Gambar Besar" class="gambar-besar">
-        <img src="gambar-besar.jpg" alt="Gambar Besar" class="gambar-besar">
-        <img src="gambar-besar.jpg" alt="Gambar Besar" class="gambar-besar">
-
     </section>
 
     <footer>
