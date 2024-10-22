@@ -19,9 +19,8 @@
 
     <section id="galeri">
         <h2>Kangen kamuu</h2>
-                <img src="Gambar WhatsApp 2024-10-22 pukul 09.57.05_91124619.jpg" alt="Gambar Besar" class="gambar-besar">
-
-        
+                <img src="2.jpg" alt="Gambar Besar" class="gambar-besar">
+                <p> Ini siapa yang habis jatuhhh kacian ayangnya setyo</p>
     </section>
 
     <section id="surprise">
